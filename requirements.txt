@@ -1,0 +1,6 @@
+# apache-airflow==2.6.1
+beautifulsoup4
+requests
+pytz
+python-dotenv
+google-api-python-client
